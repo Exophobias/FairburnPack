@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/ferritecore.mixin.properties"
+hash = "9f8fff9d11b8dd0735be7fb3c3328ff7b9c39c6e2bdd10f3462e2a56cefd28db"
+
+[[files]]
 file = "mods/affinity.pw.toml"
 hash = "d6442cc83e077046c93c89c80e9f35226c76d7dee5a9a7e1486f8bc076dee352"
 metafile = true
@@ -27,17 +31,17 @@ metafile = true
 
 [[files]]
 file = "mods/auth-me.pw.toml"
-hash = "c30f2d1e4270aaf62f9c7bc879cad438f05df1181ce965894914017150ac23b3"
+hash = "e825d96b7dd9629ddfa1789dafff58190a1956f81941265ac8fbb4e858294b46"
 metafile = true
 
 [[files]]
 file = "mods/balm-fabric.pw.toml"
-hash = "08f7aab5ac17206dcf4ee277b2e361ead308af302b883a5421292bf02d583359"
+hash = "be763c3b9f527626e99335100aa5aff2a57c1154add797d8d49726a2fc5d540a"
 metafile = true
 
 [[files]]
 file = "mods/beautiful-enchanted-books.pw.toml"
-hash = "a6fe1f1abb74c678338be74bd42b3e7ac09c52b32f7684e15e9cef1440be2808"
+hash = "83ce550ca09fc823253dabf9694a626c97d225cf68425da1a808e136aa04a814"
 metafile = true
 
 [[files]]
@@ -47,12 +51,12 @@ metafile = true
 
 [[files]]
 file = "mods/better-ping-display-fabric.pw.toml"
-hash = "d4fb15b2ea7237db7d6886f82e4f00301a10d8cc1f7bbc57cbc1374de44d0a36"
+hash = "41e498514e277ea0dce7c4bcd1144b61a6174436bb9db32d532ac4ce446e9c64"
 metafile = true
 
 [[files]]
 file = "mods/betterf3.pw.toml"
-hash = "3d1aee9d2a975fb5022cd10b0b563003b11e5689af293c9b4b710ad96b1a005c"
+hash = "884e3a49456d46499dc5afe03163d6809b7007f8e50530a9181cc7c6d159281b"
 metafile = true
 
 [[files]]
@@ -112,7 +116,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "d194f46623d966dd1687dda4e1fc4b1593ac60aa92d7380ca4c91775060d1d7c"
+hash = "58fe4fbad2fc07e13c694ec2950567f76a6a43fda1472d087a324f158af9a33b"
 metafile = true
 
 [[files]]
@@ -146,7 +150,7 @@ metafile = true
 
 [[files]]
 file = "mods/farsight-fabric.pw.toml"
-hash = "076da7151413a138985c27be190b31dd05dcaecbbf9bf5fa5ff36d998f8d2db0"
+hash = "56adc95da615090dcf286ffe11e6b58521b2e9470b2466f31bc45a81f4156999"
 metafile = true
 
 [[files]]
@@ -231,7 +235,7 @@ metafile = true
 
 [[files]]
 file = "mods/max-health-fix.pw.toml"
-hash = "6d2dc074e4c028b246485d838669c2e25a2010d75fa2c610606479ab90878792"
+hash = "6c0154031f63ccd85841c902e1f7bc65eb17e24a3d53ba0334a4228b4092d61f"
 metafile = true
 
 [[files]]
@@ -266,7 +270,7 @@ metafile = true
 
 [[files]]
 file = "mods/netherportalfix-fabric.pw.toml"
-hash = "db008972e1fc5d27d37ab4dc17357d592fb5d536da29f2a29d1a216bc93d4e44"
+hash = "373b93f1e00d23674923fd4bc02daab187722fcca6851b9b8db81491d4627e11"
 metafile = true
 
 [[files]]
@@ -360,7 +364,7 @@ metafile = true
 
 [[files]]
 file = "mods/status-effect-bars.pw.toml"
-hash = "994488989b60b0814a05246e61fd28ea2b56704f3858b16642257212f9998c0e"
+hash = "fe55d68e55ac778355011661884bb573a1b856e75af5eceee2da555505a143bf"
 metafile = true
 
 [[files]]
