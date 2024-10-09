@@ -21,6 +21,11 @@ hash = "f0537431362cc8212484037dc6874b84d3f42c4937e78024e4d919593fcf467f"
 metafile = true
 
 [[files]]
+file = "mods/betterf3.pw.toml"
+hash = "3d1aee9d2a975fb5022cd10b0b563003b11e5689af293c9b4b710ad96b1a005c"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "1b44ebf36c2a9986ca8ce3251a426246865253b4c5c7d75480393b213a4eec83"
 metafile = true
@@ -58,6 +63,11 @@ metafile = true
 [[files]]
 file = "mods/debugify.pw.toml"
 hash = "8f89f3db3ee1ee8d91f28ad870dadb0a66ac3792f2bef83b0f29f413000bdc1d"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "d194f46623d966dd1687dda4e1fc4b1593ac60aa92d7380ca4c91775060d1d7c"
 metafile = true
 
 [[files]]
