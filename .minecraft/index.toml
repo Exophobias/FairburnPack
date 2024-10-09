@@ -56,6 +56,10 @@ hash = "8f89f3db3ee1ee8d91f28ad870dadb0a66ac3792f2bef83b0f29f413000bdc1d"
 metafile = true
 
 [[files]]
+file = "mods/entityculling-fabric-1.7.0-mc1.21.jar"
+hash = "eb96b3d669c2ae39a73486afc28e46d0c0b8e01319018b850eb05bcb99cf3372"
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "0651ae9d247338cb7ea9aa258a0bac2b8148c51d6d4bcfa8e6594eea363ea5a3"
 metafile = true
@@ -199,6 +203,10 @@ metafile = true
 file = "mods/sodium-extra.pw.toml"
 hash = "fe95a544367281aff6cbf04648feb5b194fd0100c86e2bb1c34b0f4a60184cfa"
 metafile = true
+
+[[files]]
+file = "mods/sodium-fabric-0.6.0-beta.2+mc1.21.1.jar"
+hash = "f25fc5db84689e8b3ab7099ff03162e753ab62f4c1a4c062a1703547da07b23c"
 
 [[files]]
 file = "mods/sodium-leaf-culling.pw.toml"
