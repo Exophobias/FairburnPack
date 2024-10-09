@@ -17,7 +17,8 @@ multimc:
 	@echo "[Platform Build] Creating MultiMC ZIP"
 	7z d build/FairburnPack-multimc.zip ./* -r
 	7z a build/FairburnPack-multimc.zip ./.minecraft -r
-	7z a build/FairburnPack-multimc.zip ./instance.cfg -r
+	7z a build/FairburnPack-multimc.zip ./instance.cfg
+	7z a build/FairburnPack-multimc.zip ./mmc-pack.json
 
 technic: clean
 	@echo "[Platform Build] Creating Technic ZIP"
