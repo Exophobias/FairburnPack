@@ -5,6 +5,10 @@ file = "config/ferritecore.mixin.properties"
 hash = "9f8fff9d11b8dd0735be7fb3c3328ff7b9c39c6e2bdd10f3462e2a56cefd28db"
 
 [[files]]
+file = "mods/Revamped Shipwrecks 1.0.1.jar"
+hash = "a76efdf0ce20c4c1279519b4c1bdf514815be8dc18f7a591ea445c0284e9b01a"
+
+[[files]]
 file = "mods/affinity.pw.toml"
 hash = "d6442cc83e077046c93c89c80e9f35226c76d7dee5a9a7e1486f8bc076dee352"
 metafile = true
@@ -113,6 +117,10 @@ metafile = true
 file = "mods/dungeon-and-taverns.pw.toml"
 hash = "3f259730ce95008c662b26684429ef9bfc56a4209ed0ed57eefac673a1453f80"
 metafile = true
+
+[[files]]
+file = "mods/elixirum-fabric-1.21.1-0.1.1.jar"
+hash = "ae745691e291c2149935000bd75cf2b3a83753703623b6c6fd62a59f69bcdb04"
 
 [[files]]
 file = "mods/emi.pw.toml"
