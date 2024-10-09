@@ -11,6 +11,11 @@ hash = "dd78195f009d35c7f07d06feaab93382c5905e29c6478dcba8704b0de4e9faac"
 metafile = true
 
 [[files]]
+file = "mods/balm-fabric.pw.toml"
+hash = "08f7aab5ac17206dcf4ee277b2e361ead308af302b883a5421292bf02d583359"
+metafile = true
+
+[[files]]
 file = "mods/better-chunk-loading-forge-fabric.pw.toml"
 hash = "f0537431362cc8212484037dc6874b84d3f42c4937e78024e4d919593fcf467f"
 metafile = true
@@ -147,6 +152,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "3cd8155341a4233955ff9892a3b7b5da6dc6d8d892863b2f544328f2731f7f03"
+metafile = true
+
+[[files]]
+file = "mods/netherportalfix-fabric.pw.toml"
+hash = "db008972e1fc5d27d37ab4dc17357d592fb5d536da29f2a29d1a216bc93d4e44"
 metafile = true
 
 [[files]]
