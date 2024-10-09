@@ -293,7 +293,7 @@ metafile = true
 
 [[files]]
 file = "mods/paginated-advancements.pw.toml"
-hash = "b5b40e88faaa593751d4dd7d2979b89f4e8d572135c072106a82ae5757c46070"
+hash = "aa26cb3f5169232fb9d482bc29a9773ac09eb0dda9c6fa9d71d50cd362357813"
 metafile = true
 
 [[files]]
