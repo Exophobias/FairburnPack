@@ -115,6 +115,11 @@ hash = "123dbc0b72048b0f8f7f2815c894bfa5f84be70ee35f4e29a6c4cdbd1a088716"
 metafile = true
 
 [[files]]
+file = "mods/forge-config-api-port-fabric.pw.toml"
+hash = "cdfc040e85ea3b7abcce2a930bc0337cf3dd4790e20842a21c2422596c2c4982"
+metafile = true
+
+[[files]]
 file = "mods/fullstack-watchdog.pw.toml"
 hash = "d5941a5506020f5cb815baf0d940ecef61f1ad9c7c1d2acc88a8e9e478b940b7"
 metafile = true
@@ -157,6 +162,11 @@ metafile = true
 [[files]]
 file = "mods/magnesium-extras.pw.toml"
 hash = "42406f473bcecd1ecb5efeaee79a344c2b7416dd6f15fdae5f03f5cf3fd8fe6d"
+metafile = true
+
+[[files]]
+file = "mods/mapfrontiers.pw.toml"
+hash = "21838c32c5eaec1d34b582a15501be09da2c0b8d0d5b6793b58792ded645ebf8"
 metafile = true
 
 [[files]]
@@ -251,6 +261,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "9b37d4585813c3287bae237670361411bfc6ab63fa5139bdbd757d4c3733fd30"
+metafile = true
+
+[[files]]
+file = "mods/status-effect-bars.pw.toml"
+hash = "994488989b60b0814a05246e61fd28ea2b56704f3858b16642257212f9998c0e"
 metafile = true
 
 [[files]]
