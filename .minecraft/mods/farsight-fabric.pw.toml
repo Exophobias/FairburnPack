@@ -1,0 +1,13 @@
+name = "Farsight [Fabric]"
+filename = "farsight-fabric-1.21-4.4.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "edeff1f45dc76fde11977fbb15be763383ed4be5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5664473
+project-id = 579192

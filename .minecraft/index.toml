@@ -100,6 +100,11 @@ hash = "bbf46c4566b03c931c02a4b4df6ed06eca091a2b5392768c50959f1ebdcfc806"
 metafile = true
 
 [[files]]
+file = "mods/farsight-fabric.pw.toml"
+hash = "076da7151413a138985c27be190b31dd05dcaecbbf9bf5fa5ff36d998f8d2db0"
+metafile = true
+
+[[files]]
 file = "mods/fast-ip-ping.pw.toml"
 hash = "07836347e9120ad1ab44a47bc860d5840d496f22667a835475669dd46dd78e23"
 metafile = true
