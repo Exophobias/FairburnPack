@@ -11,6 +11,11 @@ hash = "dd78195f009d35c7f07d06feaab93382c5905e29c6478dcba8704b0de4e9faac"
 metafile = true
 
 [[files]]
+file = "mods/auth-me.pw.toml"
+hash = "c30f2d1e4270aaf62f9c7bc879cad438f05df1181ce965894914017150ac23b3"
+metafile = true
+
+[[files]]
 file = "mods/balm-fabric.pw.toml"
 hash = "08f7aab5ac17206dcf4ee277b2e361ead308af302b883a5421292bf02d583359"
 metafile = true
