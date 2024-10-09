@@ -1,8 +1,23 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/affinity.pw.toml"
+hash = "d6442cc83e077046c93c89c80e9f35226c76d7dee5a9a7e1486f8bc076dee352"
+metafile = true
+
+[[files]]
+file = "mods/alloy-forgery.pw.toml"
+hash = "ba8e2c966caf90b1c590ebb3af177a5e704411598f6cc93be10deecb9797b283"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "995f4235d4fd4cb5b01eda59818aa48d1d3c8e2cf54bbf57d777b9deab2b180c"
+metafile = true
+
+[[files]]
+file = "mods/ars-elixirum-fabric.pw.toml"
+hash = "7946e79c2ae21d02898cb12ff26f796192f75fa2036c710fd4c9a55da355c9af"
 metafile = true
 
 [[files]]
@@ -46,8 +61,18 @@ hash = "1b44ebf36c2a9986ca8ce3251a426246865253b4c5c7d75480393b213a4eec83"
 metafile = true
 
 [[files]]
+file = "mods/cardinal-components-api.pw.toml"
+hash = "d23556a37ff83abb1f1bff30fe68991fe93a4e1d301b0c4426747ce417c4a4a6"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "9e21cc4fae5ed88e306b4601c5e1533f883aa8b60c6e36dedeec82718be87059"
+metafile = true
+
+[[files]]
+file = "mods/combat-plus-core.pw.toml"
+hash = "9d43d56d0acdbfa3aab7f5b078d410c5842a1e063ed226667cfcbeec35b3059e"
 metafile = true
 
 [[files]]
@@ -81,8 +106,18 @@ hash = "8f89f3db3ee1ee8d91f28ad870dadb0a66ac3792f2bef83b0f29f413000bdc1d"
 metafile = true
 
 [[files]]
+file = "mods/dungeon-and-taverns.pw.toml"
+hash = "3f259730ce95008c662b26684429ef9bfc56a4209ed0ed57eefac673a1453f80"
+metafile = true
+
+[[files]]
 file = "mods/emi.pw.toml"
 hash = "d194f46623d966dd1687dda4e1fc4b1593ac60aa92d7380ca4c91775060d1d7c"
+metafile = true
+
+[[files]]
+file = "mods/energized-power.pw.toml"
+hash = "a588f9552ad889404c9d4214f18052d87174562770c78bbb04bc07c39c453c7a"
 metafile = true
 
 [[files]]
@@ -92,6 +127,11 @@ hash = "eb96b3d669c2ae39a73486afc28e46d0c0b8e01319018b850eb05bcb99cf3372"
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "0651ae9d247338cb7ea9aa258a0bac2b8148c51d6d4bcfa8e6594eea363ea5a3"
+metafile = true
+
+[[files]]
+file = "mods/extended-enchanting.pw.toml"
+hash = "928e47178b782d10f3643a3f3a7ea6cc7d849b382ba9b8339e2f045566d42fcc"
 metafile = true
 
 [[files]]
@@ -130,6 +170,11 @@ hash = "cdfc040e85ea3b7abcce2a930bc0337cf3dd4790e20842a21c2422596c2c4982"
 metafile = true
 
 [[files]]
+file = "mods/framework.pw.toml"
+hash = "94f620543fe3c4681004e2695959caf2d57c0cc6a383146e370f42c6abb4939d"
+metafile = true
+
+[[files]]
 file = "mods/fullstack-watchdog.pw.toml"
 hash = "d5941a5506020f5cb815baf0d940ecef61f1ad9c7c1d2acc88a8e9e478b940b7"
 metafile = true
@@ -142,6 +187,11 @@ metafile = true
 [[files]]
 file = "mods/irisshaders.pw.toml"
 hash = "09f0767f85477c012d6297dc0564b3575cd762d96b99821917eca2c1472efc3f"
+metafile = true
+
+[[files]]
+file = "mods/iron-chests-for-fabric.pw.toml"
+hash = "c3656a65bfd7ab4c2ebf4278939906386ec88165fbd24bc33fbc1c31470d1924"
 metafile = true
 
 [[files]]
@@ -205,6 +255,16 @@ hash = "3cd8155341a4233955ff9892a3b7b5da6dc6d8d892863b2f544328f2731f7f03"
 metafile = true
 
 [[files]]
+file = "mods/mythic-upgrades.pw.toml"
+hash = "f35b438d8889e93e7c0d163c033b70c3f17325e4f0217275e8fe838007d2472c"
+metafile = true
+
+[[files]]
+file = "mods/mythicmetals.pw.toml"
+hash = "06db300fc1ff78994ae00f325fd8bc2b04d301211a73d5f97673a0553dc967d0"
+metafile = true
+
+[[files]]
 file = "mods/netherportalfix-fabric.pw.toml"
 hash = "db008972e1fc5d27d37ab4dc17357d592fb5d536da29f2a29d1a216bc93d4e44"
 metafile = true
@@ -217,6 +277,11 @@ metafile = true
 [[files]]
 file = "mods/octo-lib.pw.toml"
 hash = "d51780e4d3ae53ab2d526b3388787b27d5d996a80bec2e4b5f7056b832161cdc"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "858b2961beca189c561577cc6d0a21a82fe52db6d01f4cb0bde557b7a8dba047"
 metafile = true
 
 [[files]]
@@ -237,6 +302,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "64d946e815b6a939a10e2fd846e54a65cbbbe1782cdcd10ce30fff285a04acd6"
+metafile = true
+
+[[files]]
+file = "mods/refurbished-furniture.pw.toml"
+hash = "05cc0cf3e6069fda3b732a4dcb14a07447d65bc559540c85bd6c26a8190308df"
 metafile = true
 
 [[files]]
@@ -296,6 +366,21 @@ metafile = true
 [[files]]
 file = "mods/structure-essentials-forge-fabric.pw.toml"
 hash = "22efa31a3c5bf3e265ca2d6ed305325be3254cfc372c2f82369627a33fdbf1c3"
+metafile = true
+
+[[files]]
+file = "mods/terrablender-fabric.pw.toml"
+hash = "15a101962bd8969593ce08e7be2844818903bc7012c15b9419e6879231369db0"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "7b5e8074a47ad6a9e453a29853bb1527906ae0ced0d714fcd386c75ef1f0f00a"
+metafile = true
+
+[[files]]
+file = "mods/waystones-fabric.pw.toml"
+hash = "aa15275aa62db75bcf31ac3180b96dc8706cfd40b49c938e3128f14bffaa80d7"
 metafile = true
 
 [[files]]
