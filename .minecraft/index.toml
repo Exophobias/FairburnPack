@@ -9,11 +9,6 @@ file = "mods/Revamped Shipwrecks 1.0.1.jar"
 hash = "a76efdf0ce20c4c1279519b4c1bdf514815be8dc18f7a591ea445c0284e9b01a"
 
 [[files]]
-file = "mods/affinity.pw.toml"
-hash = "d6442cc83e077046c93c89c80e9f35226c76d7dee5a9a7e1486f8bc076dee352"
-metafile = true
-
-[[files]]
 file = "mods/alloy-forgery.pw.toml"
 hash = "ba8e2c966caf90b1c590ebb3af177a5e704411598f6cc93be10deecb9797b283"
 metafile = true
@@ -40,7 +35,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm-fabric.pw.toml"
-hash = "be763c3b9f527626e99335100aa5aff2a57c1154add797d8d49726a2fc5d540a"
+hash = "6eb601a241388a5bc2bca4c2fde535567a236d18d510275bcf3fbea78c79e081"
 metafile = true
 
 [[files]]
