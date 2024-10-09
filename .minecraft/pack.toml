@@ -1,0 +1,13 @@
+name = "Fairburn Pack"
+author = "Ryan"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "d6b99a6e1206f364b6396f7f05d7b42aa9e6c8aada7c42280c57b36d72aafc44"
+
+[versions]
+fabric = "0.16.5"
+minecraft = "1.21.1"
