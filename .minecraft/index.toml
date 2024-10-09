@@ -180,6 +180,11 @@ hash = "21838c32c5eaec1d34b582a15501be09da2c0b8d0d5b6793b58792ded645ebf8"
 metafile = true
 
 [[files]]
+file = "mods/max-health-fix.pw.toml"
+hash = "6d2dc074e4c028b246485d838669c2e25a2010d75fa2c610606479ab90878792"
+metafile = true
+
+[[files]]
 file = "mods/melody.pw.toml"
 hash = "9cc852c7d5024d24f0403b7f86200d2283a89ffc66896123406102e57318844b"
 metafile = true
