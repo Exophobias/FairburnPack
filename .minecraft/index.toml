@@ -21,6 +21,11 @@ hash = "08f7aab5ac17206dcf4ee277b2e361ead308af302b883a5421292bf02d583359"
 metafile = true
 
 [[files]]
+file = "mods/beautiful-enchanted-books.pw.toml"
+hash = "a6fe1f1abb74c678338be74bd42b3e7ac09c52b32f7684e15e9cef1440be2808"
+metafile = true
+
+[[files]]
 file = "mods/better-chunk-loading-forge-fabric.pw.toml"
 hash = "f0537431362cc8212484037dc6874b84d3f42c4937e78024e4d919593fcf467f"
 metafile = true
@@ -227,6 +232,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "64d946e815b6a939a10e2fd846e54a65cbbbe1782cdcd10ce30fff285a04acd6"
+metafile = true
+
+[[files]]
+file = "mods/revamped-shipwrecks-mod.pw.toml"
+hash = "2e1efc8284977d6976d566ea90e80184f8003353422ad5dacc7dfe76a42a69b2"
 metafile = true
 
 [[files]]
