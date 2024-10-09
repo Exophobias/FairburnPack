@@ -1,6 +1,6 @@
 name = "Moonrise"
 filename = "Moonrise-Fabric-0.1.0-beta.4+e244c60.jar"
-side = "both"
+side = "server"
 
 [download]
 hash-format = "sha1"
