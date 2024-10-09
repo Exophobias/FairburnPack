@@ -253,7 +253,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonrise.pw.toml"
-hash = "4557d25d58a13e41bb8b607dd70a94ae17cd47a2e506defc90ddd7beac0c212d"
+hash = "28e0b260b36a2c3b2caf4d0fbeb4b397c51e76c0845c511cd4549a55bebf260d"
 metafile = true
 
 [[files]]
@@ -406,7 +406,7 @@ hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
 
 [[files]]
 file = "servers.dat"
-hash = "d4fa45593f6a4945b2e7b94097bc79cc2106da1b82fc4127a0a38212ade679a5"
+hash = "f8b680f1361a0b6cf0978874649749fba4d6b291733e933b6d440c069abb4cd0"
 
 [[files]]
 file = "shaderpacks/Sildur's Vibrant Shaders v1.52 Extreme.zip"
