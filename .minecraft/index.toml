@@ -5,6 +5,51 @@ file = "config/ferritecore.mixin.properties"
 hash = "9f8fff9d11b8dd0735be7fb3c3328ff7b9c39c6e2bdd10f3462e2a56cefd28db"
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "88684377cd29bd97133b521e5dbee6857e4a50c26c636b5495e1d997748b3eb2"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "c2973bd62002607b48da49ac0ae473d6e720769bcac134622fcb631c93e34d57"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "1bf0061d18e0a2865667b68969d19b8015d7b0f1d1de3d0cffa9c530954013af"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore.pw.toml"
+hash = "825fcd41d694336e01c4cf83f56b37b13d634456acf48ce0975080e2aa73d16b"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "50cb0e604a78fce609ddfdedb89209d38976fed7b249334aaf2f7d31d1310acc"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "0fe5b7848fbd9a8527504e85cb5be9092682fe93871e75f6d4f4fc493e77b493"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "f65b8d788fbe02638aa666997faaff6126f5e61f994749455131491285db1540"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "5102888d406ec843d5d3993168848904749fe333478e05c672cdc627c9b429bc"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "133b6162b98b140183f1af6d6ad9db9eded6cb0d04ce0a69f50309bdb43fa3d1"
+metafile = true
+
+[[files]]
 file = "packwiz-installer-bootstrap.jar"
 hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
 
