@@ -1,13 +1,13 @@
 name = "Forge Config API Port"
-filename = "ForgeConfigAPIPort-v21.1.1-1.21.1-Fabric.jar"
+filename = "ForgeConfigAPIPort-v21.1.1-1.21.1-Forge.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "a5d103f37f8d6dd30e6085ff32b025fd72aa761f"
+hash = "2ee5d4a51c8dc95048b3e0037bf1a7ae0369eee1"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5772128
+file-id = 5772129
 project-id = 547434
