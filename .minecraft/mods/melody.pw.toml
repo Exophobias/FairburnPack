@@ -1,13 +1,13 @@
 name = "Melody"
-filename = "melody_fabric_1.0.10_MC_1.21.jar"
+filename = "melody_forge_1.0.3_MC_1.20.1-1.20.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "5624eea73f251c70a9489192d326f9b4aab3b13c"
+hash = "e0942d396a70c09038e6c2e5e1da6505178249b8"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5430438
+file-id = 5109692
 project-id = 938643
