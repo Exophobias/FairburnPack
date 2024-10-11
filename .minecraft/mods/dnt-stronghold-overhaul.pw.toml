@@ -1,0 +1,13 @@
+name = "DnT Stronghold Overhaul"
+filename = "DnT-stronghold-overhaul-v2.1 [NeoForge].jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1cfa01c185afa86b3f7eb1e861722532e031ff80"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5619502
+project-id = 920416

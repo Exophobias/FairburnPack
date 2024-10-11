@@ -1,0 +1,13 @@
+name = "Advancements Reloaded"
+filename = "advancements_reloaded-0.5.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5a67312aefb1321380ba04ca8621154bb1efa5f6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5785242
+project-id = 1113876

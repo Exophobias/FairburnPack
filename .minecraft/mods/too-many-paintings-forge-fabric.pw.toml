@@ -1,0 +1,13 @@
+name = "Too Many Paintings!"
+filename = "toomanypaintings-24.7.27-1.21-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a076a4a12074916acf998191315ff6538763bb0f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5572498
+project-id = 988773

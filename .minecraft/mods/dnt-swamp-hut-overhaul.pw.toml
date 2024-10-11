@@ -1,0 +1,13 @@
+name = "DnT Swamp Hut Overhaul"
+filename = "DnT-swamp-hut-overhaul-v2 [NeoForge].jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bb1ba40b6089571f761ad443cc49543d5f645bdd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5619488
+project-id = 920439

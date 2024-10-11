@@ -1,0 +1,13 @@
+name = "Farmers Structures"
+filename = "FarmersStructures-1.0.1-1.21.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e0b8ba6477d9bacb1798be78798245790d762f70"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5665112
+project-id = 1088877

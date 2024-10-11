@@ -1,0 +1,13 @@
+name = "Formations (Structure Library)"
+filename = "formations-1.0.2-neoforge-mc1.21.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b600af2d585a1959937285591598475ba2699a2f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5550406
+project-id = 915115

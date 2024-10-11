@@ -1,0 +1,13 @@
+name = "Autochef's Delight"
+filename = "AutochefsDelight-1.21-NeoForge-2.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0e880f8cabf2161f6a504bc48a9e8cd85b49c5b8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5574401
+project-id = 964282

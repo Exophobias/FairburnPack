@@ -1,0 +1,13 @@
+name = "DnT Desert Temple Replacement"
+filename = "DnT-desert-temple-replacement-v1.2 [NeoForge].jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "93ed4116568023c8992fa8f81eab871158c797fb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5724477
+project-id = 1053225

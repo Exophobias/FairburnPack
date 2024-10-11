@@ -1,0 +1,13 @@
+name = "Sparse Structures"
+filename = "sparsestructures-neoforge-1.21.1-2.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e184ce4a98971ec8d7b356dffd246e988f19dea9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5729632
+project-id = 911437

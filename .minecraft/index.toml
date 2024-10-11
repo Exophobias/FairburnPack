@@ -5,8 +5,13 @@ file = "config/ferritecore.mixin.properties"
 hash = "9f8fff9d11b8dd0735be7fb3c3328ff7b9c39c6e2bdd10f3462e2a56cefd28db"
 
 [[files]]
+file = "mods/advancements-reloaded.pw.toml"
+hash = "1d5412ee5711f7fa1391e93f5ec173e055cf0e708f51a15c5a1597bbc935bd60"
+metafile = true
+
+[[files]]
 file = "mods/ai-improvements.pw.toml"
-hash = "db026135a8a23b2b660ebbfa8a85d06b26249305b2612bc2fab930e252100890"
+hash = "290c52a0fc9bb3354292977955e634749bb0c34c1496740b1d8c60e978d0ac65"
 metafile = true
 
 [[files]]
@@ -20,8 +25,23 @@ hash = "fd4c7072ef8395329f75667d61570f63f34e632feafa575d3b56c3b0ac1ef92d"
 metafile = true
 
 [[files]]
+file = "mods/ars-nouveau.pw.toml"
+hash = "ff998c94d65ca955c227c9ad1df9356d632b59067fac14d3ac4c490f211a0d30"
+metafile = true
+
+[[files]]
 file = "mods/attributefix.pw.toml"
 hash = "ab477f99bef7ec16aebb3f27690d1cc24feeb288b921fd3fbe8b0c9494c8731b"
+metafile = true
+
+[[files]]
+file = "mods/attributesfix.pw.toml"
+hash = "7f8f1cc5866c768eaa1abccaa426a08aa5c817ffe547f66b9bcc6b8df1377b7f"
+metafile = true
+
+[[files]]
+file = "mods/autochefs-delight.pw.toml"
+hash = "c0b3de9d7322198a024ace9d9379927e36d0477a3ab3f15b166b5ca1482da902"
 metafile = true
 
 [[files]]
@@ -36,7 +56,12 @@ metafile = true
 
 [[files]]
 file = "mods/chunk-sending-forge-fabric.pw.toml"
-hash = "5488558b52cdbacdc991c1f76b658c49a3c40f53ddf49a22df988d516bcdcfc7"
+hash = "dd5d363623f59e8cd06f16e56bcd3b51a8cbfbd5fe52218dc78ed589ebd55efe"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "22286fa216349c0767808903a0a38662857d2adee54950a18cbf26c167a06029"
 metafile = true
 
 [[files]]
@@ -55,8 +80,63 @@ hash = "7b6e5e0763170db9b10adfd1d4071e5eef06dde20987479662e53dc1ab31028f"
 metafile = true
 
 [[files]]
+file = "mods/dnt-ancient-city-overhaul.pw.toml"
+hash = "58096a477ce5489d4c283d910b0e8b285c6fea7ed8dd9010136f6af9464cc6e9"
+metafile = true
+
+[[files]]
+file = "mods/dnt-desert-temple-replacement.pw.toml"
+hash = "b210caa71ce840d5de6a92996ef4ab7c9855abe1bad25e9fbee0d2000baa769b"
+metafile = true
+
+[[files]]
+file = "mods/dnt-jungle-temple-replacement.pw.toml"
+hash = "293db1e52dafd0739d256643c5a7b7a528188804d86b683521ee13d3c073d464"
+metafile = true
+
+[[files]]
+file = "mods/dnt-nether-fortress-overhaul.pw.toml"
+hash = "25d0d7bb1e7d5999402150afd965e6f5f8b6b9e5a94e2fadd95d5bc581a7ab11"
+metafile = true
+
+[[files]]
+file = "mods/dnt-ocean-monument-replacement.pw.toml"
+hash = "cb0cca11121cc9f0f6769cbe21863830543448c518a22dc905963cfea13554f7"
+metafile = true
+
+[[files]]
+file = "mods/dnt-pillager-outpost-overhaul.pw.toml"
+hash = "64cb86049ceccbac91f9099f7913d163b8265aeabcbfb7c536f286077f7829e2"
+metafile = true
+
+[[files]]
+file = "mods/dnt-stronghold-overhaul.pw.toml"
+hash = "661d6bc0b9afaf73bab074bd559e7a515e1fa47da1f17acb868b365488a2f8c5"
+metafile = true
+
+[[files]]
+file = "mods/dnt-swamp-hut-overhaul.pw.toml"
+hash = "d61eb0419dac47f5cca10b54edcc289775a18c51c2e7b0ed3bd90daee8ae59b2"
+metafile = true
+
+[[files]]
+file = "mods/dnt-woodland-mansion-replacement.pw.toml"
+hash = "0947d5dec0900825fee662b384e2bfe96813c4cfc1b6110caac0dad82bbf1107"
+metafile = true
+
+[[files]]
+file = "mods/dungeon-and-taverns.pw.toml"
+hash = "042ff6bd1253a58e93d7ee172a2d565b0c8dedb1b88d0cb5ff7d2c9e73a04141"
+metafile = true
+
+[[files]]
 file = "mods/dynamiclights-reforged.pw.toml"
 hash = "5751f3c1a1448cbcd7796173ff390560721e529aa35f93bc032834a1e100d270"
+metafile = true
+
+[[files]]
+file = "mods/enchantment-descriptions.pw.toml"
+hash = "377a49e704eb2eea0d9cbe943e1a24dd77754c48b0c35e6ba6039ae12a567007"
 metafile = true
 
 [[files]]
@@ -71,12 +151,22 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "1bf0061d18e0a2865667b68969d19b8015d7b0f1d1de3d0cffa9c530954013af"
+hash = "6afa00214f657cd2ebf2ba3af7711b2b6ae1b97bcd09e115dd9f5601f140a4f0"
+metafile = true
+
+[[files]]
+file = "mods/extended-industrialization.pw.toml"
+hash = "c5f2ceb64e85c2dfe41a236aadc822a70e8f1a55e43f373c89bf64ce97bc0bb1"
 metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "1941ae052deb02b90e483893b7c96ead69c03e63542b758dacd5ba55e230ef5d"
+metafile = true
+
+[[files]]
+file = "mods/farmers-structures.pw.toml"
+hash = "0321c98cfb2234aa1ce2663447e9fb36a5671b2a390adb04d9572e48b5b71a44"
 metafile = true
 
 [[files]]
@@ -86,7 +176,7 @@ metafile = true
 
 [[files]]
 file = "mods/fast-async-world-save-forge-fabric.pw.toml"
-hash = "4762a06ce29a0e4ffdb1fe9c272d65c3b0cd8d77e39929c797d9986063b1dcfb"
+hash = "a1983148a0071abd5a582321711c0c4287239a53300e009620902aa9250afc94"
 metafile = true
 
 [[files]]
@@ -106,7 +196,27 @@ metafile = true
 
 [[files]]
 file = "mods/fix-gpu-memory-leak.pw.toml"
-hash = "e70c20bf24819da470d25d8cfe9cd07d2fc4ace4de942e7bcd38f7a674a24b6c"
+hash = "69ccc78abd447582c726f2dca72294a59af0c13c8e1ec3ae32b3bacd6469206e"
+metafile = true
+
+[[files]]
+file = "mods/formations-overworld.pw.toml"
+hash = "92211169026fa26d29c34c130e512a0c9df81e26a89329c17603086d80fe2704"
+metafile = true
+
+[[files]]
+file = "mods/formations.pw.toml"
+hash = "fab325dce0ca6e3233fd8d8d09173bf595ad931f5501085cccb1bfdcd24ddecd"
+metafile = true
+
+[[files]]
+file = "mods/irisshaders.pw.toml"
+hash = "e86c590b8daa67c20e45d5c8c741f3a3501388b626c720125bcef0fafc8e7dc0"
+metafile = true
+
+[[files]]
+file = "mods/iron-chests.pw.toml"
+hash = "89395dd9fcb8ae67889d991207cb95ed7158571c387dde88012853c5fa9ca3fb"
 metafile = true
 
 [[files]]
@@ -120,8 +230,28 @@ hash = "0fe5b7848fbd9a8527504e85cb5be9092682fe93871e75f6d4f4fc493e77b493"
 metafile = true
 
 [[files]]
+file = "mods/lukis-grand-capitals.pw.toml"
+hash = "5bdb68030b5251475a27b1643b5cfec1eaaedacd44be643f108128bd76ee1c80"
+metafile = true
+
+[[files]]
 file = "mods/magnesium-extras.pw.toml"
 hash = "c9d3f1228ff2443060d5901987cc488ffd2953f08b1a33c9759be0ab9d285ee9"
+metafile = true
+
+[[files]]
+file = "mods/max-health-fix.pw.toml"
+hash = "d202cde9b3b3b96f0cc63914aff577cddba1cd892e465f9eaa649c174602707f"
+metafile = true
+
+[[files]]
+file = "mods/medieval-buildings-end-edition.pw.toml"
+hash = "c516e0bb01dd5e00000c3960f9285c674e4a9c6bbdb0a6414cb9e37acd248bed"
+metafile = true
+
+[[files]]
+file = "mods/modern-industrialization.pw.toml"
+hash = "8ae5b92bb980f9d0c0d2f4f20a67726b8bf791a9a7c955fca5781bed47a91012"
 metafile = true
 
 [[files]]
@@ -186,7 +316,7 @@ metafile = true
 
 [[files]]
 file = "mods/smooth-chunk-save.pw.toml"
-hash = "e4fa37c24b3b831c85d93fe6336f6ab812813bc7e5d381e02909927b9f34ea57"
+hash = "48a5ab0b253645d471eaaa3fcea0ecf3cbee772a344cb7d6606cb61ee16f6a52"
 metafile = true
 
 [[files]]
@@ -200,6 +330,41 @@ hash = "b7908abf2f4f3decf6ff998abb29a8af2697d0db4ba459f2aa2a1f0133812ace"
 metafile = true
 
 [[files]]
+file = "mods/sparse-structures.pw.toml"
+hash = "a7c871eb0c831c1c0ab4c9f4c6c1c2e20c1f1cb83a08c195f2cbac98cb8d5f92"
+metafile = true
+
+[[files]]
+file = "mods/tesseract-api-neoforge.pw.toml"
+hash = "377a181a305e7d75a7ef3e2dd4d64fb304bd0b69f5d82ff3c2672508c6982b64"
+metafile = true
+
+[[files]]
+file = "mods/the-twilight-forest.pw.toml"
+hash = "1330dd4d48e27d8c395897772b3df80fba82d8d286790443953c8f1eaa47003e"
+metafile = true
+
+[[files]]
+file = "mods/tidal-towns.pw.toml"
+hash = "145fe133a82f443e1461acfd764fd4fa4af935760839100dc6f425ed7924046f"
+metafile = true
+
+[[files]]
+file = "mods/too-many-paintings-forge-fabric.pw.toml"
+hash = "647c7d461b4aff98385559abc324977b9bdca05ba9d9750ede3fc8db93b9dce6"
+metafile = true
+
+[[files]]
+file = "mods/twilights-flavors-delight.pw.toml"
+hash = "e4fdf125b13235cbf8f72f7e92472764161b2beaf625d71e795eeeff0c3277ac"
+metafile = true
+
+[[files]]
+file = "mods/underground-bunkers.pw.toml"
+hash = "72a76e8337198b32ba0941ce4b5d03dc29b4080ac7708e226c74b3fc9cd88d8b"
+metafile = true
+
+[[files]]
 file = "mods/waystones.pw.toml"
 hash = "133b6162b98b140183f1af6d6ad9db9eded6cb0d04ce0a69f50309bdb43fa3d1"
 metafile = true
@@ -209,13 +374,33 @@ file = "packwiz-installer-bootstrap.jar"
 hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
 
 [[files]]
+file = "resourcepacks/Faithful 64x - Release 5.zip"
+hash = "9dafbea9f4de757d98cff6fe0cb1f06d399f099d149025fc5798955697008c24"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1.9.2.zip"
+hash = "7ecee4567bd999ce6d45897b0b196a9342ff325f550031a15fffaaf81342dc1b"
+
+[[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "a837a6ef76177cd45f425ed3a72fef3454c761fda77507d8f1943ddabf54e8df"
 metafile = true
 
 [[files]]
+file = "resourcepacks/xali's enchanted books v0.13.0.zip"
+hash = "bf43f5ee7cb30b866e1417014c43c4a28684e64d7703caa254895e5f3a3fca82"
+
+[[files]]
 file = "servers.dat"
 hash = "f8b680f1361a0b6cf0978874649749fba4d6b291733e933b6d440c069abb4cd0"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.2.2.zip"
+hash = "3b0cd5c36afebdcd74521a447ca5f2b0d6f9c1c8c8416a9f20d9bedc271a8e1c"
+
+[[files]]
+file = "shaderpacks/OPAL_v1.0.1.zip"
+hash = "c0e842fe4450db2318dfc6b37a2542eb90c46c4e46d8aa530bd6e6fb0f753709"
 
 [[files]]
 file = "shaderpacks/Sildur's Vibrant Shaders v1.52 Extreme.zip"
@@ -224,3 +409,11 @@ hash = "a9fb2ff2bb0a6bd1261e6133de93916b4a4466c1dc3931aafe9a5c80882a6052"
 [[files]]
 file = "shaderpacks/Sildur's Vibrant Shaders v1.52 Medium.zip"
 hash = "ec9f588d32301b04d38a65fe1753a6c4b3874089ec9f65ffeb8f0c3e2ac994d8"
+
+[[files]]
+file = "shaderpacks/Solas Shader V2.3.zip"
+hash = "a9c0968be9a5216c94a59ddd7f50ae2293969113f776053d7cea222aa197c5a3"
+
+[[files]]
+file = "shaderpacks/Spooklementary_1.1.zip"
+hash = "c24a6c5285a3dd6e5f037811b4a08bef0b2f830fe81d573b8631aa9a70716b87"
