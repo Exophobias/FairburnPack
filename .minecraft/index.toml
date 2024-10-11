@@ -5,6 +5,11 @@ file = "config/ferritecore.mixin.properties"
 hash = "9f8fff9d11b8dd0735be7fb3c3328ff7b9c39c6e2bdd10f3462e2a56cefd28db"
 
 [[files]]
+file = "mods/alltheleaks.pw.toml"
+hash = "2f02374c4347b2d2d6ea569bd98d2761374e84881962a8418e0edadbc818abdc"
+metafile = true
+
+[[files]]
 file = "mods/attributefix.pw.toml"
 hash = "ab477f99bef7ec16aebb3f27690d1cc24feeb288b921fd3fbe8b0c9494c8731b"
 metafile = true
@@ -35,6 +40,21 @@ hash = "7b6e5e0763170db9b10adfd1d4071e5eef06dde20987479662e53dc1ab31028f"
 metafile = true
 
 [[files]]
+file = "mods/dynamiclights-reforged.pw.toml"
+hash = "5751f3c1a1448cbcd7796173ff390560721e529aa35f93bc032834a1e100d270"
+metafile = true
+
+[[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "c51b70668ec45bf832b36c0de7589d6b8cd7b25db46ce1a804909378af62e248"
+metafile = true
+
+[[files]]
+file = "mods/entity-texture-features-fabric.pw.toml"
+hash = "51751a953b6dd104008c0c3cca721fa4ddc8f2066e6f44415cd419073830912b"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "1bf0061d18e0a2865667b68969d19b8015d7b0f1d1de3d0cffa9c530954013af"
 metafile = true
@@ -45,8 +65,28 @@ hash = "1941ae052deb02b90e483893b7c96ead69c03e63542b758dacd5ba55e230ef5d"
 metafile = true
 
 [[files]]
+file = "mods/farsight.pw.toml"
+hash = "b4978516bb16a655b07d72ee7f203a174f887960dd3985e6c8ffc40193b8d720"
+metafile = true
+
+[[files]]
+file = "mods/fastfurnace.pw.toml"
+hash = "cd6722988536fc6a348afbb17aabbf4bba8c5a8ebd7287e6e4dd7e26647c99cb"
+metafile = true
+
+[[files]]
+file = "mods/fastworkbench.pw.toml"
+hash = "f2e8e0b4cffafaea234a01b4f93bb45a9775bd0c31639f9dfb7144bf401f4f32"
+metafile = true
+
+[[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "825fcd41d694336e01c4cf83f56b37b13d634456acf48ce0975080e2aa73d16b"
+metafile = true
+
+[[files]]
+file = "mods/fix-gpu-memory-leak.pw.toml"
+hash = "e70c20bf24819da470d25d8cfe9cd07d2fc4ace4de942e7bcd38f7a674a24b6c"
 metafile = true
 
 [[files]]
@@ -60,8 +100,23 @@ hash = "0fe5b7848fbd9a8527504e85cb5be9092682fe93871e75f6d4f4fc493e77b493"
 metafile = true
 
 [[files]]
+file = "mods/magnesium-extras.pw.toml"
+hash = "c9d3f1228ff2443060d5901987cc488ffd2953f08b1a33c9759be0ab9d285ee9"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "f65b8d788fbe02638aa666997faaff6126f5e61f994749455131491285db1540"
+metafile = true
+
+[[files]]
+file = "mods/netherportalfix.pw.toml"
+hash = "78cf82fda4c8a7ea9556cf4481b43f38762151bcac0a09fd412f82d5f0883cc7"
+metafile = true
+
+[[files]]
+file = "mods/placebo.pw.toml"
+hash = "0dc6cb18aec7b1b2ee8a9ce9db4aaf5262f6b898d08d336750ee6d1d589c2953"
 metafile = true
 
 [[files]]
@@ -75,6 +130,16 @@ hash = "1384257178dcdf9b2553dfc802925c1152e4beea15977d436c1f8d1c918d31f0"
 metafile = true
 
 [[files]]
+file = "mods/radium-reforged.pw.toml"
+hash = "67591382be789035eec313d92c15b224c0bdecab65091c9191c44502a99e834e"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "7a95679bea07dc368d11e18878d6c51a2b703db53fdf3fa4285cf70a76fa07bb"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "5102888d406ec843d5d3993168848904749fe333478e05c672cdc627c9b429bc"
 metafile = true
@@ -85,6 +150,16 @@ hash = "e4fa37c24b3b831c85d93fe6336f6ab812813bc7e5d381e02909927b9f34ea57"
 metafile = true
 
 [[files]]
+file = "mods/sodium-options-api.pw.toml"
+hash = "6f4e0cde808407363ccc87fb7e1f11b1810f9cd8f814bba843b343c1379a941d"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "b7908abf2f4f3decf6ff998abb29a8af2697d0db4ba459f2aa2a1f0133812ace"
+metafile = true
+
+[[files]]
 file = "mods/waystones.pw.toml"
 hash = "133b6162b98b140183f1af6d6ad9db9eded6cb0d04ce0a69f50309bdb43fa3d1"
 metafile = true
@@ -92,6 +167,11 @@ metafile = true
 [[files]]
 file = "packwiz-installer-bootstrap.jar"
 hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
+
+[[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "a837a6ef76177cd45f425ed3a72fef3454c761fda77507d8f1943ddabf54e8df"
+metafile = true
 
 [[files]]
 file = "servers.dat"

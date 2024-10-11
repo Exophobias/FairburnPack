@@ -1,0 +1,13 @@
+name = "AllTheLeaks"
+filename = "alltheleaks-0.0.7-beta.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "91f1c9f6431edf91e788a42cb2a8b77d66a66eb6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5800155
+project-id = 1091339
