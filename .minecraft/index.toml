@@ -104,6 +104,11 @@ hash = "7b6e5e0763170db9b10adfd1d4071e5eef06dde20987479662e53dc1ab31028f"
 metafile = true
 
 [[files]]
+file = "mods/curios-continuation.pw.toml"
+hash = "a10bcc1295c06a5df372546b85c40be83f93a2a5be9f79124339ff38cdb18cf1"
+metafile = true
+
+[[files]]
 file = "mods/dnt-ancient-city-overhaul.pw.toml"
 hash = "58096a477ce5489d4c283d910b0e8b285c6fea7ed8dd9010136f6af9464cc6e9"
 metafile = true
@@ -242,6 +247,11 @@ hash = "fab325dce0ca6e3233fd8d8d09173bf595ad931f5501085cccb1bfdcd24ddecd"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "47ef193597f011dba5ee86b885651660dd4b45d4ce451ec2b29c2a55b5e5cd28"
+metafile = true
+
+[[files]]
 file = "mods/irisshaders.pw.toml"
 hash = "e86c590b8daa67c20e45d5c8c741f3a3501388b626c720125bcef0fafc8e7dc0"
 metafile = true
@@ -334,6 +344,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "7a95679bea07dc368d11e18878d6c51a2b703db53fdf3fa4285cf70a76fa07bb"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items.pw.toml"
+hash = "c5d0046aa02829b6d61e741a4629743f13c5c66987993dc1e106e49f2a8a0ee5"
 metafile = true
 
 [[files]]
