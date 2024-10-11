@@ -5,8 +5,23 @@ file = "config/ferritecore.mixin.properties"
 hash = "9f8fff9d11b8dd0735be7fb3c3328ff7b9c39c6e2bdd10f3462e2a56cefd28db"
 
 [[files]]
+file = "mods/attributefix.pw.toml"
+hash = "ab477f99bef7ec16aebb3f27690d1cc24feeb288b921fd3fbe8b0c9494c8731b"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "88684377cd29bd97133b521e5dbee6857e4a50c26c636b5495e1d997748b3eb2"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf.pw.toml"
+hash = "dc66329022e2b553babf9c6f9ee023fd8dc6586cd9ddeef28ba462f7380119c6"
+metafile = true
+
+[[files]]
+file = "mods/connectivity.pw.toml"
+hash = "de1cbb51e7e23c072d1faa01aba178e4932b9095b97bfd5eaec04c5efd1b2617"
 metafile = true
 
 [[files]]
@@ -15,8 +30,18 @@ hash = "c2973bd62002607b48da49ac0ae473d6e720769bcac134622fcb631c93e34d57"
 metafile = true
 
 [[files]]
+file = "mods/cupboard.pw.toml"
+hash = "7b6e5e0763170db9b10adfd1d4071e5eef06dde20987479662e53dc1ab31028f"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "1bf0061d18e0a2865667b68969d19b8015d7b0f1d1de3d0cffa9c530954013af"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "1941ae052deb02b90e483893b7c96ead69c03e63542b758dacd5ba55e230ef5d"
 metafile = true
 
 [[files]]
@@ -40,8 +65,23 @@ hash = "f65b8d788fbe02638aa666997faaff6126f5e61f994749455131491285db1540"
 metafile = true
 
 [[files]]
+file = "mods/polymorph.pw.toml"
+hash = "4beec6848d82c97dc6bd920d98aa096bf4a9fe131151ed898736d0ac1c435f5f"
+metafile = true
+
+[[files]]
+file = "mods/prickle.pw.toml"
+hash = "1384257178dcdf9b2553dfc802925c1152e4beea15977d436c1f8d1c918d31f0"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "5102888d406ec843d5d3993168848904749fe333478e05c672cdc627c9b429bc"
+metafile = true
+
+[[files]]
+file = "mods/smooth-chunk-save.pw.toml"
+hash = "e4fa37c24b3b831c85d93fe6336f6ab812813bc7e5d381e02909927b9f34ea57"
 metafile = true
 
 [[files]]
