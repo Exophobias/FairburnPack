@@ -5,6 +5,11 @@ file = "config/ferritecore.mixin.properties"
 hash = "9f8fff9d11b8dd0735be7fb3c3328ff7b9c39c6e2bdd10f3462e2a56cefd28db"
 
 [[files]]
+file = "mods/ai-improvements.pw.toml"
+hash = "db026135a8a23b2b660ebbfa8a85d06b26249305b2612bc2fab930e252100890"
+metafile = true
+
+[[files]]
 file = "mods/alltheleaks.pw.toml"
 hash = "2f02374c4347b2d2d6ea569bd98d2761374e84881962a8418e0edadbc818abdc"
 metafile = true
