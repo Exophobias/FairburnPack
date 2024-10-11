@@ -30,6 +30,11 @@ hash = "dc66329022e2b553babf9c6f9ee023fd8dc6586cd9ddeef28ba462f7380119c6"
 metafile = true
 
 [[files]]
+file = "mods/chunk-sending-forge-fabric.pw.toml"
+hash = "5488558b52cdbacdc991c1f76b658c49a3c40f53ddf49a22df988d516bcdcfc7"
+metafile = true
+
+[[files]]
 file = "mods/connectivity.pw.toml"
 hash = "de1cbb51e7e23c072d1faa01aba178e4932b9095b97bfd5eaec04c5efd1b2617"
 metafile = true
@@ -147,6 +152,11 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "5102888d406ec843d5d3993168848904749fe333478e05c672cdc627c9b429bc"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "7d45cf2408e2fa98f504849d803b7d3820fa36cbe7d4c32887639c321d5381f1"
 metafile = true
 
 [[files]]
