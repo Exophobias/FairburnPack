@@ -317,11 +317,6 @@ hash = "64d946e815b6a939a10e2fd846e54a65cbbbe1782cdcd10ce30fff285a04acd6"
 metafile = true
 
 [[files]]
-file = "mods/refurbished-furniture.pw.toml"
-hash = "05cc0cf3e6069fda3b732a4dcb14a07447d65bc559540c85bd6c26a8190308df"
-metafile = true
-
-[[files]]
 file = "mods/revamped-shipwrecks-mod.pw.toml"
 hash = "2e1efc8284977d6976d566ea90e80184f8003353422ad5dacc7dfe76a42a69b2"
 metafile = true
