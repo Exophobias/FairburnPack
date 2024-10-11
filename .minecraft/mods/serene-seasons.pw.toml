@@ -1,13 +1,13 @@
 name = "Serene Seasons"
-filename = "SereneSeasons-forge-1.21.1-10.1.0.1.jar"
+filename = "SereneSeasons-neoforge-1.21.1-10.1.0.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "56d579d7e150b592455815956fead6f2e6b79328"
+hash = "ae33953d7fc25063e234f680395dec2acc192d75"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5753500
+file-id = 5753503
 project-id = 291874

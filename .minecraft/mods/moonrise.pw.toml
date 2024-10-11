@@ -1,13 +1,13 @@
 name = "Moonrise"
-filename = "Moonrise-Fabric-0.1.0-beta.4+e244c60.jar"
+filename = "Moonrise-NeoForge-0.1.0-beta.4+e244c60.jar"
 side = "server"
 
 [download]
 hash-format = "sha1"
-hash = "daeb22e393f4789ed6d3e41b760b62cdab11fe55"
+hash = "db74cd343c064fe2ee2054f8d22652b0e52ff7e2"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5772485
+file-id = 5772486
 project-id = 1096335

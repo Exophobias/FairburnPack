@@ -1,13 +1,13 @@
 name = "Sodium/Embeddium Options API"
-filename = "sodiumoptionsapi-forge-1.0.2-1.20.1.jar"
+filename = "sodiumoptionsapi-neoforge-1.0.2-1.21.1.jar"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "87e7a288c1905ffe66e0f2c7268d2cc73d6e4f48"
+hash = "0d428dd3f4de4af80447db89eaa9156d33c29ca7"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5727854
+file-id = 5727852
 project-id = 1103431
