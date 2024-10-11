@@ -5,6 +5,30 @@ file = "config/ferritecore.mixin.properties"
 hash = "9f8fff9d11b8dd0735be7fb3c3328ff7b9c39c6e2bdd10f3462e2a56cefd28db"
 
 [[files]]
+file = "mods/DnT-desert-temple-replacement-v1.2 [NeoForge].jar"
+hash = "a44e7d0ddac6a4045d2c6bd4791eba97f21e7fa8de9eb4062b0f995b92d6485b"
+
+[[files]]
+file = "mods/DnT-jungle-temple-replacement-v1.2 [NeoForge].jar"
+hash = "18f59097d3e8be9ad3826a8105e90fb749b3fe896f502a1cc7408817369b1d7e"
+
+[[files]]
+file = "mods/DnT-nether-fortress-overhaul-v2.4 [NeoForge].jar"
+hash = "cfa79be379c70f993786bb068e3f7a7864a5037e1a5e48dfbb2aed62feec73d7"
+
+[[files]]
+file = "mods/DnT-ocean-monument-replacement-v1.2 [NeoForge].jar"
+hash = "bdc4cfcc780bb27e674d999532f5626252f563e49ba3a056320d853124127a90"
+
+[[files]]
+file = "mods/DnT-woodland-mansion-replacement-v1.2 [NeoForge].jar"
+hash = "27496934f832f92a1c4f099bb2fe54808ed7ab3d84316cd955cfebbe0eb24b3e"
+
+[[files]]
+file = "mods/FarmersStructures-1.0.1-1.21.jar"
+hash = "3712951c1ba5eab43fb829f00b7a9228c11de1f3f3d3a38d2253a4c6d4665f30"
+
+[[files]]
 file = "mods/advancements-reloaded.pw.toml"
 hash = "1d5412ee5711f7fa1391e93f5ec173e055cf0e708f51a15c5a1597bbc935bd60"
 metafile = true
@@ -150,9 +174,17 @@ hash = "51751a953b6dd104008c0c3cca721fa4ddc8f2066e6f44415cd419073830912b"
 metafile = true
 
 [[files]]
+file = "mods/entityculling-neoforge-1.7.0-mc1.21.jar"
+hash = "25ae343db081edab6191a4aebe00bb1b34cc2a1c5d1c77e4609c31f0357ccdeb"
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "6afa00214f657cd2ebf2ba3af7711b2b6ae1b97bcd09e115dd9f5601f140a4f0"
 metafile = true
+
+[[files]]
+file = "mods/extended-industrialization-1.9.4-beta-1.21.1.jar"
+hash = "5714d1d0b7a48dcfb7745788d1fccc8297b98f6ab43f5cf9fbcf347b7975b185"
 
 [[files]]
 file = "mods/extended-industrialization.pw.toml"
@@ -320,6 +352,10 @@ hash = "48a5ab0b253645d471eaaa3fcea0ecf3cbee772a344cb7d6606cb61ee16f6a52"
 metafile = true
 
 [[files]]
+file = "mods/sodium-neoforge-0.6.0-beta.2+mc1.21.1.jar"
+hash = "722aebb60f85c9658d7076b703b344a855c21a5f3c475e6d664548b22c27ee48"
+
+[[files]]
 file = "mods/sodium-options-api.pw.toml"
 hash = "6f4e0cde808407363ccc87fb7e1f11b1810f9cd8f814bba843b343c1379a941d"
 metafile = true
@@ -335,14 +371,26 @@ hash = "a7c871eb0c831c1c0ab4c9f4c6c1c2e20c1f1cb83a08c195f2cbac98cb8d5f92"
 metafile = true
 
 [[files]]
+file = "mods/sparsestructures-neoforge-1.21.1-2.2.0.jar"
+hash = "ec28a19df1a43b985bb0d3e726e075fcb22732cbda4b6f9ebeffe2224ce562c6"
+
+[[files]]
 file = "mods/tesseract-api-neoforge.pw.toml"
 hash = "377a181a305e7d75a7ef3e2dd4d64fb304bd0b69f5d82ff3c2672508c6982b64"
 metafile = true
 
 [[files]]
+file = "mods/tesseract-neoforge-1.5.4-beta-1.21.1.jar"
+hash = "9d391eedcf5f11f08bcbf66f6ab5d07a67b3d238598b3467ef30249b6ac8c631"
+
+[[files]]
 file = "mods/the-twilight-forest.pw.toml"
 hash = "1330dd4d48e27d8c395897772b3df80fba82d8d286790443953c8f1eaa47003e"
 metafile = true
+
+[[files]]
+file = "mods/tidal-towns-1.3.3_neo_1.21.jar"
+hash = "f56d3d5e44e356653964b88bb1f82c6d518a9b1242ff9294558076a6370cec25"
 
 [[files]]
 file = "mods/tidal-towns.pw.toml"
