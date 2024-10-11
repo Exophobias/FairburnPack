@@ -15,6 +15,11 @@ hash = "2f02374c4347b2d2d6ea569bd98d2761374e84881962a8418e0edadbc818abdc"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "fd4c7072ef8395329f75667d61570f63f34e632feafa575d3b56c3b0ac1ef92d"
+metafile = true
+
+[[files]]
 file = "mods/attributefix.pw.toml"
 hash = "ab477f99bef7ec16aebb3f27690d1cc24feeb288b921fd3fbe8b0c9494c8731b"
 metafile = true
@@ -80,6 +85,11 @@ hash = "b4978516bb16a655b07d72ee7f203a174f887960dd3985e6c8ffc40193b8d720"
 metafile = true
 
 [[files]]
+file = "mods/fast-async-world-save-forge-fabric.pw.toml"
+hash = "4762a06ce29a0e4ffdb1fe9c272d65c3b0cd8d77e39929c797d9986063b1dcfb"
+metafile = true
+
+[[files]]
 file = "mods/fastfurnace.pw.toml"
 hash = "cd6722988536fc6a348afbb17aabbf4bba8c5a8ebd7287e6e4dd7e26647c99cb"
 metafile = true
@@ -125,6 +135,16 @@ hash = "78cf82fda4c8a7ea9556cf4481b43f38762151bcac0a09fd412f82d5f0883cc7"
 metafile = true
 
 [[files]]
+file = "mods/notenoughrecipebook.pw.toml"
+hash = "e833a2a48be1c52c7f59f4f9c5313689445cf328ddfae4eaa4eb815a5e722f9d"
+metafile = true
+
+[[files]]
+file = "mods/octo-lib.pw.toml"
+hash = "7fcb4ec3f2759a9605c9a0d734590053c49d0811674e1ae8e856d51957970b74"
+metafile = true
+
+[[files]]
 file = "mods/placebo.pw.toml"
 hash = "0dc6cb18aec7b1b2ee8a9ce9db4aaf5262f6b898d08d336750ee6d1d589c2953"
 metafile = true
@@ -142,6 +162,11 @@ metafile = true
 [[files]]
 file = "mods/radium-reforged.pw.toml"
 hash = "67591382be789035eec313d92c15b224c0bdecab65091c9191c44502a99e834e"
+metafile = true
+
+[[files]]
+file = "mods/recipe-essentials-forge-fabric.pw.toml"
+hash = "52fd1ad1490c3bcb6eb80098f8a7c92f9f41fad4893e36e6d65ff81313429812"
 metafile = true
 
 [[files]]
