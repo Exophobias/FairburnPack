@@ -247,6 +247,16 @@ hash = "fab325dce0ca6e3233fd8d8d09173bf595ad931f5501085cccb1bfdcd24ddecd"
 metafile = true
 
 [[files]]
+file = "mods/ftb-essentials.pw.toml"
+hash = "541ec3b6906928dccbe2f7737c62b4029c154cc1ef1c8b90f0f215ded6526519"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-forge.pw.toml"
+hash = "a9eb3b1786f6c506ea9aff1aa178b3518597a05b9c6e221173fcf5d28759a276"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "47ef193597f011dba5ee86b885651660dd4b45d4ce451ec2b29c2a55b5e5cd28"
 metafile = true
