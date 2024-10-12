@@ -243,7 +243,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-essentials.pw.toml"
-hash = "744108918067c64f3f10897da7749fec36646e5c17956cbce710c3ef330fdad9"
+hash = "541ec3b6906928dccbe2f7737c62b4029c154cc1ef1c8b90f0f215ded6526519"
 metafile = true
 
 [[files]]
