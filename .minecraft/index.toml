@@ -208,7 +208,7 @@ metafile = true
 
 [[files]]
 file = "mods/farsight.pw.toml"
-hash = "b4978516bb16a655b07d72ee7f203a174f887960dd3985e6c8ffc40193b8d720"
+hash = "773ddadff214f89f5e56ac97338e885af531f93adf866e558d31a517e84068c4"
 metafile = true
 
 [[files]]
@@ -248,12 +248,12 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-essentials.pw.toml"
-hash = "541ec3b6906928dccbe2f7737c62b4029c154cc1ef1c8b90f0f215ded6526519"
+hash = "744108918067c64f3f10897da7749fec36646e5c17956cbce710c3ef330fdad9"
 metafile = true
 
 [[files]]
 file = "mods/ftb-library-forge.pw.toml"
-hash = "a9eb3b1786f6c506ea9aff1aa178b3518597a05b9c6e221173fcf5d28759a276"
+hash = "9d334db8fa3b04752d5dcc76a9b8bf0a5e272be664f26ff64f83d90124af44e7"
 metafile = true
 
 [[files]]
@@ -263,7 +263,7 @@ metafile = true
 
 [[files]]
 file = "mods/irisshaders.pw.toml"
-hash = "e86c590b8daa67c20e45d5c8c741f3a3501388b626c720125bcef0fafc8e7dc0"
+hash = "37a460c03b522b71a5a630e4d7a26cb6b4d54bbcf16ab7596230e0e593edb2ed"
 metafile = true
 
 [[files]]
@@ -440,48 +440,3 @@ metafile = true
 [[files]]
 file = "packwiz-installer-bootstrap.jar"
 hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
-
-[[files]]
-file = "resourcepacks/Faithful 64x - Release 5.zip"
-hash = "9dafbea9f4de757d98cff6fe0cb1f06d399f099d149025fc5798955697008c24"
-
-[[files]]
-file = "resourcepacks/FreshAnimations_v1.9.2.zip"
-hash = "7ecee4567bd999ce6d45897b0b196a9342ff325f550031a15fffaaf81342dc1b"
-
-[[files]]
-file = "resourcepacks/fresh-animations.pw.toml"
-hash = "a837a6ef76177cd45f425ed3a72fef3454c761fda77507d8f1943ddabf54e8df"
-metafile = true
-
-[[files]]
-file = "resourcepacks/xali's enchanted books v0.13.0.zip"
-hash = "bf43f5ee7cb30b866e1417014c43c4a28684e64d7703caa254895e5f3a3fca82"
-
-[[files]]
-file = "servers.dat"
-hash = "f8b680f1361a0b6cf0978874649749fba4d6b291733e933b6d440c069abb4cd0"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.2.2.zip"
-hash = "3b0cd5c36afebdcd74521a447ca5f2b0d6f9c1c8c8416a9f20d9bedc271a8e1c"
-
-[[files]]
-file = "shaderpacks/OPAL_v1.0.1.zip"
-hash = "c0e842fe4450db2318dfc6b37a2542eb90c46c4e46d8aa530bd6e6fb0f753709"
-
-[[files]]
-file = "shaderpacks/Sildur's Vibrant Shaders v1.52 Extreme.zip"
-hash = "a9fb2ff2bb0a6bd1261e6133de93916b4a4466c1dc3931aafe9a5c80882a6052"
-
-[[files]]
-file = "shaderpacks/Sildur's Vibrant Shaders v1.52 Medium.zip"
-hash = "ec9f588d32301b04d38a65fe1753a6c4b3874089ec9f65ffeb8f0c3e2ac994d8"
-
-[[files]]
-file = "shaderpacks/Solas Shader V2.3.zip"
-hash = "a9c0968be9a5216c94a59ddd7f50ae2293969113f776053d7cea222aa197c5a3"
-
-[[files]]
-file = "shaderpacks/Spooklementary_1.1.zip"
-hash = "c24a6c5285a3dd6e5f037811b4a08bef0b2f830fe81d573b8631aa9a70716b87"

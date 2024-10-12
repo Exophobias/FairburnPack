@@ -1,3 +1,6 @@
 # Ignore Git files
 .git/**
 .gitattributes
+resourcepacks/*
+shaderpacks/*
+servers.dat
