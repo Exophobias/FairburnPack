@@ -267,6 +267,11 @@ hash = "47ef193597f011dba5ee86b885651660dd4b45d4ce451ec2b29c2a55b5e5cd28"
 metafile = true
 
 [[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "2ad57ea8e85076464c6696341467913e70377b432ad7b719f9d256bf0ba416e4"
+metafile = true
+
+[[files]]
 file = "mods/irisshaders.pw.toml"
 hash = "37a460c03b522b71a5a630e4d7a26cb6b4d54bbcf16ab7596230e0e593edb2ed"
 metafile = true
@@ -299,6 +304,16 @@ metafile = true
 [[files]]
 file = "mods/konkrete.pw.toml"
 hash = "9ad984b24bf67caad88f64fce044eaa1c1e2cb019e6d52282a3a8abd8566eb53"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "ec6eae32dcbf8d6b6fa240c1b488ec3ea4eb106e30154fb0a8b212e87eebbe47"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "f49fd7c3ffe23d779e945b78504877a7d56c4bb94ab6b1c0f148e3c5f85551a7"
 metafile = true
 
 [[files]]
