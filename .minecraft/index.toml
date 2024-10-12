@@ -357,6 +357,11 @@ hash = "1384257178dcdf9b2553dfc802925c1152e4beea15977d436c1f8d1c918d31f0"
 metafile = true
 
 [[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "3de6962066ee38d8114bdc1f8aac339440da148031069d1598db86798e4215ab"
+metafile = true
+
+[[files]]
 file = "mods/radium-reforged.pw.toml"
 hash = "67591382be789035eec313d92c15b224c0bdecab65091c9191c44502a99e834e"
 metafile = true
@@ -440,6 +445,11 @@ metafile = true
 [[files]]
 file = "mods/twilights-flavors-delight.pw.toml"
 hash = "e4fdf125b13235cbf8f72f7e92472764161b2beaf625d71e795eeeff0c3277ac"
+metafile = true
+
+[[files]]
+file = "mods/visual-workbench.pw.toml"
+hash = "ae2865cf87e79f155c35f971cc39934b805c2fc13c7d0659ae0db696491e786b"
 metafile = true
 
 [[files]]
