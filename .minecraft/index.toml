@@ -293,7 +293,7 @@ metafile = true
 
 [[files]]
 file = "mods/loot-integrations.pw.toml"
-hash = "f553c41c337bb70fed87530b1b7069aee2c7ea33938e3d6ecc86b3bb504f0426"
+hash = "4cef2c5b123dc0616a91c17358afbcb5e4039fc27fd40a4392dd407fc3d5b49b"
 metafile = true
 
 [[files]]
