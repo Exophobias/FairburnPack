@@ -282,6 +282,16 @@ hash = "0fe5b7848fbd9a8527504e85cb5be9092682fe93871e75f6d4f4fc493e77b493"
 metafile = true
 
 [[files]]
+file = "mods/just-zoom.pw.toml"
+hash = "4c32ce422982325224874bc0d54831f90106ded5437d2ca937df8831105f55d6"
+metafile = true
+
+[[files]]
+file = "mods/konkrete.pw.toml"
+hash = "51e8c729a6722d04ff85da2afac2b1c2178587be7713027cbc9cd0c58f668929"
+metafile = true
+
+[[files]]
 file = "mods/lukis-grand-capitals.pw.toml"
 hash = "5bdb68030b5251475a27b1643b5cfec1eaaedacd44be643f108128bd76ee1c80"
 metafile = true
