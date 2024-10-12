@@ -212,6 +212,11 @@ hash = "a1983148a0071abd5a582321711c0c4287239a53300e009620902aa9250afc94"
 metafile = true
 
 [[files]]
+file = "mods/fast-ip-ping.pw.toml"
+hash = "89ba61b08c73a5c56726fde9653c6790da7bac43bd1069e65721078bc4be1ca5"
+metafile = true
+
+[[files]]
 file = "mods/fastfurnace.pw.toml"
 hash = "cd6722988536fc6a348afbb17aabbf4bba8c5a8ebd7287e6e4dd7e26647c99cb"
 metafile = true
@@ -354,6 +359,11 @@ metafile = true
 [[files]]
 file = "mods/packed-up-backpacks.pw.toml"
 hash = "0bcba9deb3314cc1a3cb8ee2d50d85753c6362337c25843b759156c08c5ead03"
+metafile = true
+
+[[files]]
+file = "mods/pinghud.pw.toml"
+hash = "00fe9921300b7dea920a452b55c4c25998810e942bd14825920ad880dcd7ba95"
 metafile = true
 
 [[files]]
