@@ -342,6 +342,11 @@ hash = "7fcb4ec3f2759a9605c9a0d734590053c49d0811674e1ae8e856d51957970b74"
 metafile = true
 
 [[files]]
+file = "mods/packed-up-backpacks.pw.toml"
+hash = "0bcba9deb3314cc1a3cb8ee2d50d85753c6362337c25843b759156c08c5ead03"
+metafile = true
+
+[[files]]
 file = "mods/placebo.pw.toml"
 hash = "0dc6cb18aec7b1b2ee8a9ce9db4aaf5262f6b898d08d336750ee6d1d589c2953"
 metafile = true
@@ -413,6 +418,16 @@ metafile = true
 [[files]]
 file = "mods/sparsestructures-neoforge-1.21.1-2.2.0.jar"
 hash = "ec28a19df1a43b985bb0d3e726e075fcb22732cbda4b6f9ebeffe2224ce562c6"
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "2e42245826ce70d4ad673addb0e5244da388841f1484f03ee5a9426ee33b2229"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "cd2baae86b9af4057dad87b8d57283cb25e8403ed34e4dcf67f567fc5c0f765c"
+metafile = true
 
 [[files]]
 file = "mods/tesseract-api-neoforge.pw.toml"
