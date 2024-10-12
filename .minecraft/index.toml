@@ -283,12 +283,17 @@ metafile = true
 
 [[files]]
 file = "mods/just-zoom.pw.toml"
-hash = "4c32ce422982325224874bc0d54831f90106ded5437d2ca937df8831105f55d6"
+hash = "fb4ffafde41725d6471fe2e9a41cbc00a381ce069551ac6719c32d5a631c5b51"
 metafile = true
 
 [[files]]
 file = "mods/konkrete.pw.toml"
-hash = "51e8c729a6722d04ff85da2afac2b1c2178587be7713027cbc9cd0c58f668929"
+hash = "9ad984b24bf67caad88f64fce044eaa1c1e2cb019e6d52282a3a8abd8566eb53"
+metafile = true
+
+[[files]]
+file = "mods/loot-integrations.pw.toml"
+hash = "f553c41c337bb70fed87530b1b7069aee2c7ea33938e3d6ecc86b3bb504f0426"
 metafile = true
 
 [[files]]
