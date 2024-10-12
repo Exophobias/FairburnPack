@@ -59,11 +59,6 @@ hash = "ab477f99bef7ec16aebb3f27690d1cc24feeb288b921fd3fbe8b0c9494c8731b"
 metafile = true
 
 [[files]]
-file = "mods/attributesfix.pw.toml"
-hash = "7f8f1cc5866c768eaa1abccaa426a08aa5c817ffe547f66b9bcc6b8df1377b7f"
-metafile = true
-
-[[files]]
 file = "mods/autochefs-delight.pw.toml"
 hash = "c0b3de9d7322198a024ace9d9379927e36d0477a3ab3f15b166b5ca1482da902"
 metafile = true
