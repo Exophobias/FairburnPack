@@ -165,17 +165,17 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
-hash = "377a49e704eb2eea0d9cbe943e1a24dd77754c48b0c35e6ba6039ae12a567007"
+hash = "fe7af24e5e29ecd12d66b152371dc6d2b85ac19c257a17ad3b03169d13e3a4cd"
 metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "c51b70668ec45bf832b36c0de7589d6b8cd7b25db46ce1a804909378af62e248"
+hash = "acccf0b08d1ca7c227a76d50510d81043a98500f2e9f333b6620c6285d95b702"
 metafile = true
 
 [[files]]
 file = "mods/entity-texture-features-fabric.pw.toml"
-hash = "51751a953b6dd104008c0c3cca721fa4ddc8f2066e6f44415cd419073830912b"
+hash = "0256d47eeb75903403c48baa6e7ce132c994c9267f23dd2c58cf5614233ab044"
 metafile = true
 
 [[files]]
