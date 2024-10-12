@@ -33,6 +33,7 @@ technic: clean
 server:
 	@echo "[Platform Build] Creating Server Files"
 	-cd .server && java -jar packwiz-installer-bootstrap.jar -g -s server ../.minecraft/pack.toml
+	-rm ./server/mods/sodium-neoforge-0.6.0-beta.2+mc1.21.1.jar
 
 clean:
 	-rm -rf build/*
