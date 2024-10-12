@@ -31,7 +31,6 @@ technic: clean
 server:
 	@echo "[Platform Build] Creating Server Files"
 	-cp .minecraft/packwiz-installer-bootstrap.jar .server/packwiz-installer-bootstrap.jar
-	rm -rf ./.server./config/bcc-common.toml
 	cd .server && java -jar packwiz-installer-bootstrap.jar -g -s server ../.minecraft/pack.toml
 
 clean:

@@ -423,11 +423,6 @@ hash = "e4fdf125b13235cbf8f72f7e92472764161b2beaf625d71e795eeeff0c3277ac"
 metafile = true
 
 [[files]]
-file = "mods/underground-bunkers.pw.toml"
-hash = "72a76e8337198b32ba0941ce4b5d03dc29b4080ac7708e226c74b3fc9cd88d8b"
-metafile = true
-
-[[files]]
 file = "mods/waystones.pw.toml"
 hash = "133b6162b98b140183f1af6d6ad9db9eded6cb0d04ce0a69f50309bdb43fa3d1"
 metafile = true
