@@ -232,6 +232,11 @@ hash = "69ccc78abd447582c726f2dca72294a59af0c13c8e1ec3ae32b3bacd6469206e"
 metafile = true
 
 [[files]]
+file = "mods/forge-config-api-port-fabric.pw.toml"
+hash = "42e20c7fdb82a9d95cffcab63bbd9932883db3a75be42a7dde0518e0f12d0c4b"
+metafile = true
+
+[[files]]
 file = "mods/formations-overworld.pw.toml"
 hash = "92211169026fa26d29c34c130e512a0c9df81e26a89329c17603086d80fe2704"
 metafile = true
@@ -304,6 +309,11 @@ metafile = true
 [[files]]
 file = "mods/magnesium-extras.pw.toml"
 hash = "e05e34990a93b72d572918c169090b622ebd68e7235dac44b6f68d3824270315"
+metafile = true
+
+[[files]]
+file = "mods/mapfrontiers.pw.toml"
+hash = "f8d7639ade64f13c0bbd7e453cd82c519f54e8c9e541454a68aafde5a7c6db6f"
 metafile = true
 
 [[files]]
