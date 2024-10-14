@@ -155,7 +155,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamiclights-reforged.pw.toml"
-hash = "9de624dad7b129c3fa8e3a8482917bf03fe5c2cb5209003bef6fc0fbc8ea6d15"
+hash = "b9e99c4f40a61bcdefbb80a189449cfdd27f9533dac19c158d374a2f5da4ba71"
 metafile = true
 
 [[files]]
@@ -328,7 +328,7 @@ metafile = true
 
 [[files]]
 file = "mods/magnesium-extras.pw.toml"
-hash = "e05e34990a93b72d572918c169090b622ebd68e7235dac44b6f68d3824270315"
+hash = "85dca019fccb6d60d5fc136fe6b34246ee8c6f457c2bc57846993d70e611daed"
 metafile = true
 
 [[files]]
@@ -437,7 +437,7 @@ hash = "722aebb60f85c9658d7076b703b344a855c21a5f3c475e6d664548b22c27ee48"
 
 [[files]]
 file = "mods/sodium-options-api.pw.toml"
-hash = "31838ef19640e2bc1955e5ef8068053d553428cb6703a22e453c1ec17dd32367"
+hash = "447a83c6214032c12cac3efd1c9e99a5c2693888fa65b7a338829c1612b46a95"
 metafile = true
 
 [[files]]
